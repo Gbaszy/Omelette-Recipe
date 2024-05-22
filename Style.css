@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(231, 219, 163, 0.781);
+    padding:70px 210px;
+    font-family: Georgia, Arial, Helvetica, sans-serif;
+}
+.container{
+    padding: 20px ;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+#preparation{
+    background-color: bisque;
+    padding: 3%;
+    border-radius: 5px;
+
+}
+#preparation ul{
+    margin-left: -20px; 
+}
+#ingredients ul{
+margin-left: -22px;
+}
+#instructions ol{
+    margin-left: -22px;
+    }
+ul{
+    padding-right: 40px;
+}
+.nutrition {
+    margin-left: 5px;
+
+}
+h3{
+    color: rgba(151, 34, 34, 0.788);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ #items{
+    height: 30px;
+    width: 80%;
+    text-align: left;
+    padding-left: 20px;
+    color:black;
+} 
+td{
+    height: 30px;
+    text-align:left;
+    color: rgba(151, 34, 34, 0.788);
+
+    
+}
